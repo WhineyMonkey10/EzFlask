@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: ezFlask
-Version: 0.1.0
-Summary: An easy to use flask wrapper.
-Author: WhMonkey
-License: LICENSE.txt
-License-File: LICENSE.txt
-
-Easier flask. Not all featuers are included.
