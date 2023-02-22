@@ -1,8 +1,8 @@
 
 from distutils.core import setup
 setup(
-  name = 'FlaskSqaure',        
-  packages = ['FlaskSqaure'],   
+  name = 'FlaskSqaured',        
+  packages = ['FlaskSqaured'],   
   version = '0.1',      
   license='MIT',        
   description = 'An easier and more simple version of flask.',
