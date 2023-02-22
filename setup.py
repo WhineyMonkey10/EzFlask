@@ -1,15 +1,15 @@
 
 from distutils.core import setup
 setup(
-  name = 'easyflask',        
-  packages = ['easyflask'],   
+  name = 'FlaskSqaure',        
+  packages = ['FlaskSqaure'],   
   version = '0.1',      
   license='MIT',        
   description = 'An easier and more simple version of flask.',
   author = 'WhMonkey',                   
   author_email = 'no-reply@no-reply.com',      
-  url = 'https://github.com/whineymonkey10/ezflask',   
-  download_url = 'https://github.com/WhineyMonkey10/EzFlask/archive/refs/tags/v.0.1.0.tar.gz',    
+  url = 'https://github.com/WhineyMonkey10/easyflask',   
+  download_url = 'https://github.com/WhineyMonkey10/easyflask/archive/refs/tags/v.0.1.2.tar.gz',    
   keywords = ['FLASK', 'WEBSITE', 'EASY'],   
   install_requires=[            
           'flask',
